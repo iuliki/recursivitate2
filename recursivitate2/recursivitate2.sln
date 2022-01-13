@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "recursivitate2", "recursivitate2\recursivitate2.csproj", "{434C74BE-6CF0-4572-98E6-359EC441E350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{434C74BE-6CF0-4572-98E6-359EC441E350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434C74BE-6CF0-4572-98E6-359EC441E350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434C74BE-6CF0-4572-98E6-359EC441E350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434C74BE-6CF0-4572-98E6-359EC441E350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B4E1629-0458-480D-B0AE-19C9C86F4CC7}
+	EndGlobalSection
+EndGlobal
